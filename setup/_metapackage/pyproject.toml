@@ -1,8 +1,10 @@
 [project]
 name = "odoo-addons-oca-hr-holidays"
-version = "18.0.20250409.0"
+version = "18.0.20250416.1"
 dependencies = [
+    "odoo-addon-hr_holidays_natural_period==18.0.*",
     "odoo-addon-hr_holidays_public==18.0.*",
+    "odoo-addon-hr_holidays_public_city==18.0.*",
 ]
 classifiers=[
     "Programming Language :: Python",
