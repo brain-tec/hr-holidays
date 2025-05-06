@@ -16,6 +16,7 @@ setuptools.setup(
         'odoo14-addon-hr_holidays_natural_period',
         'odoo14-addon-hr_holidays_public',
         'odoo14-addon-hr_holidays_public_city',
+        'odoo14-addon-hr_holidays_security',
         'odoo14-addon-hr_holidays_settings',
         'odoo14-addon-hr_holidays_summary_email',
         'odoo14-addon-hr_leave_custom_hour_interval',
